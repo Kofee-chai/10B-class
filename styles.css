@@ -1,0 +1,365 @@
+@media screen and (max-width: 2500px){
+    body{
+        font-family: "Ysabeau SC", serif;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
+    background-color: rgb(21, 27, 27);
+    }
+
+    header{
+        background: black;
+        height: 220px;
+        margin: -5px;
+    }
+    h1{
+        font-size: 60px;
+        color:white;
+        text-align: center;
+        margin: 0;
+        padding: 20px;
+    }
+
+    ul{
+        text-align: center;
+        list-style: none;
+        padding: 0px;
+    }
+
+    a.golova{
+        text-decoration: none;
+    }
+    a.shapka{
+        font-size: 40px;
+        padding: 50px;
+        color:aliceblue;
+        text-decoration: none;
+    }
+
+    a.shapka:hover{
+        color: aquamarine;
+        text-decoration: none;
+    }
+
+    li{
+        display: inline;
+    }
+
+    div.clmanage{
+        text-align: center;
+        margin: -5px;
+        padding: 10px;
+    }
+
+    img.clmanage{
+        width: 350px;
+        height: 350px;
+        border-radius: 50%;
+    }
+
+    a.photo{
+        font-size: 40px;
+        color: white;
+        text-decoration: none;
+    }
+
+    a.photo:hover{
+        color: aquamarine;
+        text-decoration: none;
+    }
+
+    table.table1{
+        margin: -5px;
+        width: 100%;
+        height: 500px;
+        background-color:rgb(21, 27, 27);
+        text-align: center;
+    }
+
+    
+
+    div.photo{
+        display: inline;
+    }
+
+    img{
+        width: 225px;
+        height: 225px;
+        border-radius: 50%;
+    }
+}
+
+
+
+
+
+
+@media screen and (max-width: 1300px){
+    body{
+        font-family: "Ysabeau SC", serif;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
+    background-color: rgb(21, 27, 27);
+    }
+
+    header{
+        background: black;
+        height: 220px;
+        margin: -5px;
+    }
+    h1{
+        font-size: 60px;
+        color:white;
+        text-align: center;
+        margin: 0;
+        padding: 20px;
+    }
+
+    ul{
+        text-align: center;
+        list-style: none;
+        padding: 0px;
+    }
+
+    a.golova{
+        text-decoration: none;
+    }
+    a.shapka{
+        font-size: 40px;
+        padding: 50px;
+        color:aliceblue;
+        text-decoration: none;
+    }
+
+    a.shapka:hover{
+        color: aquamarine;
+        text-decoration: none;
+    }
+
+    li{
+        display: inline;
+    }
+
+    div.clmanage{
+        text-align: center;
+        margin: -5px;
+        padding: 10px;
+    }
+
+    img.clmanage{
+        width: 350px;
+        height: 350px;
+        border-radius: 50%;
+    }
+
+    a.photo{
+        font-size: 40px;
+        color: white;
+        text-decoration: none;
+    }
+
+    a.photo:hover{
+        color: aquamarine;
+        text-decoration: none;
+    }
+
+    table.table1{
+        margin: -5px;
+        width: 100%;
+        height: 500px;
+        background-color:rgb(21, 27, 27);
+        text-align: center;
+    }
+
+    div.photo{
+        display: inline;
+    }
+
+    img{
+        width: 225px;
+        height: 225px;
+        border-radius: 50%;
+    }
+}
+
+@media screen and (max-width: 1024px){
+    body{
+        font-family: "Ysabeau SC", serif;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
+    background-color: rgb(21, 27, 27);
+    }
+
+    header{
+        background: black;
+        height: 220px;
+        margin: -5px;
+    }
+    h1{
+        font-size: 60px;
+        color:white;
+        text-align: center;
+        margin: 0;
+        padding: 20px;
+    }
+
+    ul{
+        text-align: center;
+        list-style: none;
+        padding: 0px;
+    }
+
+    a.golova{
+        text-decoration: none;
+    }
+    a.shapka{
+        font-size: 40px;
+        padding: 50px;
+        color:aliceblue;
+        text-decoration: none;
+    }
+
+    a.shapka:hover{
+        color: aquamarine;
+        text-decoration: none;
+    }
+
+    li{
+        display: inline;
+    }
+
+    div.clmanage{
+        text-align: center;
+        margin: -5px;
+        padding: 10px;
+    }
+
+    img.clmanage{
+        width: 350px;
+        height: 350px;
+        border-radius: 50%;
+    }
+
+    a.photo{
+        font-size: 40px;
+        color: white;
+        text-decoration: none;
+    }
+
+    a.photo:hover{
+        color: aquamarine;
+        text-decoration: none;
+    }
+
+    table.table1{
+        margin: -5px;
+        width: 100%;
+        height: 500px;
+        background-color:rgb(21, 27, 27);
+        text-align: center;
+    }
+
+
+    div.photo{
+        display: inline;
+    }
+
+    img{
+        width: 225px;
+        height: 225px;
+        border-radius: 50%;
+    }
+}
+
+@media screen and (max-width: 576px){
+    body{
+        font-family: "Ysabeau SC", serif;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
+    background-color: rgb(21, 27, 27);
+    }
+
+    header{
+        background: black;
+        height: 110px;
+        margin: -5px;
+    }
+    h1{
+        font-size: 30px;
+        color:white;
+        text-align: center;
+        margin: 0;
+        padding: 2px;
+    }
+
+    ul{
+        text-align: center;
+        list-style: none;
+        padding: 0px;
+    }
+
+    a.golova{
+        text-decoration: none;
+    }
+    a.shapka{
+        font-size: 13px;
+        padding: 7px;
+        color:aliceblue;
+        text-decoration: none;
+    }
+
+    a.shapka:hover{
+        color: aquamarine;
+        text-decoration: none;
+    }
+
+    li{
+        display: inline;
+    }
+
+    div.clmanage{
+        text-align: center;
+        margin: -5px;
+        padding: 5px;
+    }
+
+    img.clmanage{
+        padding: 5px;
+        width: 75px;
+        height: 75px;
+        border-radius: 50%;
+    }
+
+    a.photo{
+        font-size: 12px;
+        color: white;
+        text-decoration: none;
+    }
+
+    a.photo:hover{
+        color: aquamarine;
+        text-decoration: none;
+    }
+
+    table.table1{
+        margin: -5px;
+        width: 100%;
+        height: 400px;
+        background-color:rgb(21, 27, 27);
+        text-align: center;
+    }
+
+    div.photo{
+        display: inline;
+    }
+
+    img{
+        width: 50px;
+        height: 50px;
+        border-radius: 50%;
+    }
+}
+
